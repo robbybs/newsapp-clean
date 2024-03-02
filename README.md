@@ -7,3 +7,6 @@ This is Basic Model-View-ViewModel Architecture with Endless Scrolling
 - Glide
 - Circle View Image
 - Endless Scroll with Paging3
+- Clean Architecture
+- Dagger Hilt
+- Coroutine Flow
